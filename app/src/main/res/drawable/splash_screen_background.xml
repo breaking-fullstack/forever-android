@@ -3,9 +3,9 @@
     android:opacity="opaque">
 
     <item android:drawable="@color/forever_red" />
-    <item>
+    <item android:bottom="32dp">
         <bitmap
-            android:gravity="center"
+            android:gravity="bottom"
             android:src="@drawable/app_logo" />
     </item>
 
